@@ -21,8 +21,8 @@ I hope to develop with best communication 💬📧<br>
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jpa-58c25a?style=flat-square&logo=jpa&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jpa-58c25a?style=flat-square&logo=Databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=F-Secure&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
