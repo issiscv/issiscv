@@ -1,5 +1,31 @@
-- 👋 Hi, I’m 김상운
-- 👀 스프링 프레임워크를 이용한 백엔드 API 개발에 관심이 있습니다.
-- 🌱 현재 공부중인 분야는 알고리즘과, spring securty와 aws를 공부하고있습니다.
-- 💞️ 소통 중심의 개발을 통한 프로젝트를 지향합니다. 
-- 📫 issiscv46@gmail.com
+# **Introduce**
+<img src="https://img.shields.io/badge/issiscv46@gmail.com-FF4500?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/SangWoonKim-4169E1?style=flat-square&logo=Namecheap&logoColor=white"/><br>
+👋 Hi, I’m backend developer using Java and Spring-Boot.🔥<br>
+I`m interested in developing REST-API😊
+
+I study 1 day 2 algorithm in Programmers<br>
+I enjoy music 🎶, movie 🎥, walking 🚶‍♂, pull-up 💪<br>
+I love my dog 🐶<br>
+I hope to develop with best communication 💬📧<br> 
+
+
+# **Skills**
+
+**Language**
+<br>
+<img src="https://img.shields.io/badge/Java-FF7F50?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-32CD32?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jpa-58c25a?style=flat-square&logo=jpa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+
+
