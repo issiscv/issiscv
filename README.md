@@ -6,7 +6,7 @@ I`m interested in developing REST-API😊
 I study 1 day 2 algorithm in Programmers<br>
 I enjoy music 🎶, movie 🎥, walking 🚶‍♂, pull-up 💪<br>
 I love my dog 🐶<br>
-I hope to develop with best communication 💬📧<br> 
+i hope for development that values communication. 💬📧<br> 
 
 
 # **Skills**
