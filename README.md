@@ -20,12 +20,13 @@ i hope for development that values communication. 💬📧<br>
 **Tools**
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jpa-58c25a?style=flat-square&logo=Databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=F-Secure&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
 
 
