@@ -24,3 +24,4 @@ i hope for development that values communication. 💬📧<br>
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issiscv&show_icons=true&theme=radical)
