@@ -17,9 +17,16 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 
 <h2 align="left"> 📚 Latest Blog Post</h2>
-[2022/09/24 - 인프콘 2022 - (레거시 시스템) 개편의 기술](https://zzang9ha.tistory.com/419) <br/>
-[2022/09/17 - JUnit5 assertThat vs assertAll vs assertSoftly](https://zzang9ha.tistory.com/418) <br/>
-[2022/09/14 - Git Sqaush로 여러 개의 Commit logs 합치기(Git Rebase)](https://zzang9ha.tistory.com/417) <br/>
-[2022/09/09 - Github 레포지토리 커밋 이력 유지한 채 다른 레포지토리에 복제하기](https://zzang9ha.tistory.com/416) <br/>
-[2022/09/05 - Spring Boot profiles 설정하기](https://zzang9ha.tistory.com/415) <br/>
-[2022/09/03 - Spring Thread, Transaction, Connection 관계](https://zzang9ha.tistory.com/414) <br/>
+
+[2022/09/23 - 도커 A to Z](https://velog.io/@coconenne/series/%EB%8F%84%EC%BB%A4-A-to-Z) <br/> <br/>
+
+[2022/08/26 - 스프링으로 알아보는 동시성 이슈](https://velog.io/@coconenne/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88) <br/> <br/>
+
+[2022/08/26 - 리팩토링 핵심정리](https://velog.io/@coconenne/series/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81) <br/> <br/>
+
+[2022/08/10 - 스프링 고급편 핵심정리](https://velog.io/@coconenne/series/%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B3%A0%EA%B8%89%ED%8E%B8-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC) <br/> <br/>
+
+[2022/04/08 - 클린코드 핵심정리](https://velog.io/@coconenne/series/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C) <br/> <br/>
+
+
+[2022/03/22 - 양방향 연관관계의 이해](https://velog.io/@coconenne/series/%EC%96%91%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%9D%98-%EC%9D%B4%ED%95%B4) <br/> <br/>
