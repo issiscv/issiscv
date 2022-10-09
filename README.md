@@ -5,8 +5,10 @@
 
 <h2 align="left"> 📺️ Channel</h2>
 
+[![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://extreme-mozzarella-3b8.notion.site/c5349d06b50f4527af7caef3b30aa2d5)
 [![Gmail](http://img.shields.io/badge/Gmail-important?style=flat&logo=Gmail&link=mailto:zzang9haha@gmail.com)](mailto:issiscv46@gmail.com) 
 <a href="https://velog.io/@_koiil"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@coconenne"/></a>
+
 
 <h2 align="left"> 🔥 Tech Stack 🔥</h2>
 <br>
@@ -17,6 +19,8 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 
 <h2 align="left"> 📚 Latest Blog Post</h2>
+
+[2022/10/10 - 디자인패턴 - java](https://velog.io/@coconenne/series/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4) <br/> <br/>
 
 [2022/09/23 - 도커 A to Z](https://velog.io/@coconenne/series/%EB%8F%84%EC%BB%A4-A-to-Z) <br/> <br/>
 
