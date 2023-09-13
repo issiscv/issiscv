@@ -1,3 +1,7 @@
+![aws-certified-developer-associate](https://github.com/issiscv/hexagonal-architecture/assets/66157892/e8ac225c-4eaa-4dd7-be7d-1c8cac271cce)
+<br>
+<a href="https://www.credly.com/badges/2f88a6a3-114c-429d-b354-5db37090ef0c/public_url">AWS Certified Developer – Associate</a>
+
 <h2 align="left"> 🏆 Git Activeness 🏆</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issiscv&show_icons=true&theme=radical)
